@@ -1,0 +1,62 @@
+dependencyResolutionManagement {
+    versionCatalogs {
+        libs {
+            library('m7r-commons', 'org.mentalizr:m7r-commons:0.0.1-SNAPSHOT')
+            library('m7r-backendProc', 'org.mentalizr:m7r-backend-proc:1.0-SNAPSHOT')
+            library('m7r-persistenceMongo', 'org.mentalizr:m7r-persistence-mongo:1.0-SNAPSHOT')
+            library('m7r-persistenceRdbms', 'org.mentalizr:m7r-persistence-rdbms:1.0-SNAPSHOT')
+            library('m7r-backendConfig', 'org.mentalizr:m7r-backend-config:1.0-SNAPSHOT')
+            library('m7r-serviceObjects', 'org.mentalizr:m7r-service-objects:0.0.1-SNAPSHOT')
+            library('m7r-contentManager', 'org.mentalizr:m7r-content-manager:0.1-SNAPSHOT')
+            library('m7r-cli', 'org.mentalizr:m7r-cli:0.0.1-SNAPSHOT')
+            library('m7r-mdpCompiler', 'org.mentalizr:mdp-compiler:0.0.9-SNAPSHOT')
+
+            library('ap-utils-core', 'com.github.arthurpicht:utils-core:1.13.0')
+            library('ap-utils-io', 'com.github.arthurpicht:utils-io:0.0.20')
+            library('ap-utils-logging', 'com.github.arthurpicht:utils-logging:0.0.1')
+            library('ap-utils-pdfbox2', 'com.github.arthurpicht:utils-pdfbox2:0.0.2')
+            library('ap-utils-struct', 'com.github.arthurpicht:utils-struct:0.0.4')
+            library('ap-configuration', 'com.github.arthurpicht:AP-Configuration:0.1.6')
+            library('ap-cli', 'com.github.arthurpicht:cli:0.1.2')
+            library('ap-processExecutor', 'com.github.arthurpicht:processExecutor:0.0.6')
+            library('ap-taskRunner', 'com.github.arthurpicht:taskRunner:0.0.4')
+            library('ap-webAccessControl', 'com.github.arthurpicht:webAccessControl:0.0.3')
+            library('ap-barnacle', 'com.github.arthurpicht:Barnacle:0.3.2')
+            library('ap-fzfJavaWrapper', 'com.github.arthurpicht:fzfJavaWrapper:0.0.3')
+            library('ap-console', 'com.github.arthurpicht:console:0.1.6')
+            library('ap-virtInitDebian', 'com.github.arthurpicht:virt-init-debian:0.0.1')
+            library('ap-linuxWrapper', 'com.github.arthurpicht:linux-wrapper:0.0.5')
+
+            library('jakarta-servlet-api', 'jakarta.servlet:jakarta.servlet-api:4.0.4' )
+            library('jakarta-xml-bind-api', 'jakarta.xml.bind:jakarta.xml.bind-api:2.3.3')
+            library('jersey-server', 'org.glassfish.jersey.core:jersey-server:2.40')
+            library('jersey-hk2', 'org.glassfish.jersey.inject:jersey-hk2:2.40')
+            library('jersey-container-servlet', 'org.glassfish.jersey.containers:jersey-container-servlet:2.40')
+            library('jersey-container-jdk-http', 'org.glassfish.jersey.containers:jersey-container-jdk-http:2.40')
+            library('jersey-media-jaxb', 'org.glassfish.jersey.media:jersey-media-jaxb:2.40')
+            library('jersey-media-json-binding', 'org.glassfish.jersey.media:jersey-media-json-binding:2.40')
+            library('sun-jaxb-impl', 'com.sun.xml.bind:jaxb-impl:2.3.3')
+
+            library('mongodb-driver-sync', 'org.mongodb:mongodb-driver-sync:3.12.14')
+            library('mariadb-javaClient', 'org.mariadb.jdbc:mariadb-java-client:2.4.3')
+
+            library('mkammerer-argon2', 'de.mkammerer:argon2-jvm:2.11')
+            library('jline', 'org.jline:jline:3.26.1')
+            library('apache-pdfbox2', 'org.apache.pdfbox:pdfbox:2.0.31')
+            library('google-zxing-core', 'com.google.zxing:core:3.5.3')
+            library('google-zxing-javase', 'com.google.zxing:javase:3.5.3') 
+
+            library('java-jnaPlatformJpms', 'net.java.dev.jna:jna-platform-jpms:5.14.0')
+            library('libvirt', 'org.libvirt:libvirt:0.5.2')
+
+            library('qos-logback', 'ch.qos.logback:logback-classic:1.5.2')
+            library('slf4j-julToSlf4j', 'org.slf4j:jul-to-slf4j:1.7.36')
+
+            library('junit-jupiter', 'org.junit.jupiter:junit-jupiter:5.10.2')
+            library('junit-engine', 'org.junit.jupiter:junit-jupiter-engine:5.10.2')
+
+            // to be replaced by ap-console:
+            library('jcolor', 'com.diogonunes:JColor:5.5.1')
+        }
+    }
+}
