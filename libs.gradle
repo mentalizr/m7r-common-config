@@ -11,7 +11,7 @@ dependencyResolutionManagement {
             library('m7r-cli', 'org.mentalizr:m7r-cli:0.0.1-SNAPSHOT')
             library('m7r-mdpCompiler', 'org.mentalizr:mdp-compiler:0.0.9-SNAPSHOT')
 
-            library('ap-utils-core', 'com.github.arthurpicht:utils-core:1.15.0')
+            library('ap-utils-core', 'com.github.arthurpicht:utils-core:1.16.0')
             library('ap-utils-io', 'com.github.arthurpicht:utils-io:0.0.20')
             library('ap-utils-logging', 'com.github.arthurpicht:utils-logging:0.0.1')
             library('ap-utils-pdfbox2', 'com.github.arthurpicht:utils-pdfbox2:0.0.2')
