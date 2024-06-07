@@ -23,7 +23,7 @@ dependencyResolutionManagement {
             library('ap-webAccessControl', 'com.github.arthurpicht:webAccessControl:0.0.3')
             library('ap-barnacle', 'com.github.arthurpicht:Barnacle:0.3.2')
             library('ap-fzfJavaWrapper', 'com.github.arthurpicht:fzfJavaWrapper:0.0.3')
-            library('ap-console', 'com.github.arthurpicht:console:0.2.1')
+            library('ap-console', 'com.github.arthurpicht:console:0.3.0')
             library('ap-consoleToSlf4j', 'com.github.arthurpicht:console-to-slf4j:0.0.1')
             library('ap-virtInitDebian', 'com.github.arthurpicht:virt-init-debian:0.0.1')
             library('ap-linuxWrapper', 'com.github.arthurpicht:linux-wrapper:0.0.6')
