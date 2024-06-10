@@ -23,7 +23,7 @@ dependencyResolutionManagement {
             library('ap-webAccessControl', 'com.github.arthurpicht:webAccessControl:0.0.3')
             library('ap-barnacle', 'com.github.arthurpicht:Barnacle:0.3.2')
             library('ap-fzfJavaWrapper', 'com.github.arthurpicht:fzfJavaWrapper:0.0.3')
-            library('ap-console', 'com.github.arthurpicht:console:0.3.0')
+            library('ap-console', 'com.github.arthurpicht:console:0.3.1')
             library('ap-consoleToSlf4j', 'com.github.arthurpicht:console-to-slf4j:0.0.1')
             library('ap-virtInitDebian', 'com.github.arthurpicht:virt-init-debian:0.0.1')
             library('ap-linuxWrapper', 'com.github.arthurpicht:linux-wrapper:0.0.6')
@@ -49,6 +49,8 @@ dependencyResolutionManagement {
 
             library('java-jnaPlatformJpms', 'net.java.dev.jna:jna-platform-jpms:5.14.0')
             library('libvirt', 'org.libvirt:libvirt:0.5.2')
+
+            library('eclipse-angusMail', 'org.eclipse.angus:angus-mail:2.0.3')
 
             library('qos-logback', 'ch.qos.logback:logback-classic:1.5.2')
             library('slf4j-julToSlf4j', 'org.slf4j:jul-to-slf4j:1.7.36')
