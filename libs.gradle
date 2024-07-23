@@ -44,6 +44,7 @@ dependencyResolutionManagement {
             library('mkammerer-argon2', 'de.mkammerer:argon2-jvm:2.11')
             library('jline', 'org.jline:jline:3.26.1')
             library('apache-pdfbox2', 'org.apache.pdfbox:pdfbox:2.0.31')
+            library('apache-pdfbox3', 'org.apache.pdfbox:pdfbox:3.0.2')
             library('google-zxing-core', 'com.google.zxing:core:3.5.3')
             library('google-zxing-javase', 'com.google.zxing:javase:3.5.3') 
 
