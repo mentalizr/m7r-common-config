@@ -14,7 +14,7 @@ dependencyResolutionManagement {
             library('ap-utils-core', 'com.github.arthurpicht:utils-core:1.18.0')
             library('ap-utils-io', 'com.github.arthurpicht:utils-io:0.0.22')
             library('ap-utils-logging', 'com.github.arthurpicht:utils-logging:0.0.1')
-            library('ap-utils-pdfbox2', 'com.github.arthurpicht:utils-pdfbox2:0.0.2')
+            library('ap-utils-pdfbox', 'com.github.arthurpicht:utils-pdfbox:0.0.3')
             library('ap-utils-struct', 'com.github.arthurpicht:utils-struct:0.0.4')
             library('ap-configuration', 'com.github.arthurpicht:AP-Configuration:0.1.6')
             library('ap-cli', 'com.github.arthurpicht:cli:0.1.3')
@@ -43,7 +43,7 @@ dependencyResolutionManagement {
 
             library('mkammerer-argon2', 'de.mkammerer:argon2-jvm:2.11')
             library('jline', 'org.jline:jline:3.26.1')
-            library('apache-pdfbox2', 'org.apache.pdfbox:pdfbox:2.0.31')
+            library('apache-pdfbox3', 'org.apache.pdfbox:pdfbox:3.0.2')
             library('google-zxing-core', 'com.google.zxing:core:3.5.3')
             library('google-zxing-javase', 'com.google.zxing:javase:3.5.3') 
 
