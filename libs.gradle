@@ -11,7 +11,7 @@ dependencyResolutionManagement {
             library('m7r-cli', 'org.mentalizr:m7r-cli:0.0.1-SNAPSHOT')
             library('m7r-mdpCompiler', 'org.mentalizr:mdp-compiler:0.0.9-SNAPSHOT')
 
-            library('ap-utils-core', 'de.arthurpicht:ap-utils-core:1.19.0')
+            library('ap-utils-core', 'de.arthurpicht:ap-utils-core:1.20.0')
             library('ap-utils-io', 'de.arthurpicht:ap-utils-io:0.0.23')
             library('ap-utils-logging', 'de.arthurpicht:ap-utils-logging:0.0.2')
             library('ap-utils-pdfbox', 'de.arthurpicht:ap-utils-pdfbox:0.0.4')
@@ -54,6 +54,7 @@ dependencyResolutionManagement {
 
             library('qos-logback', 'ch.qos.logback:logback-classic:1.5.2')
             library('slf4j-julToSlf4j', 'org.slf4j:jul-to-slf4j:1.7.36')
+            library('slf4j-nop', 'org.slf4j:slf4j-nop:2.0.16')
 
             library('junit-jupiter', 'org.junit.jupiter:junit-jupiter:5.10.2')
             library('junit-engine', 'org.junit.jupiter:junit-jupiter-engine:5.10.2')
