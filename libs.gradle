@@ -12,7 +12,7 @@ dependencyResolutionManagement {
             library('m7r-mdpCompiler', 'org.mentalizr:mdp-compiler:0.0.9-SNAPSHOT')
 
             library('ap-utils-core', 'de.arthurpicht:ap-utils-core:1.20.0')
-            library('ap-utils-io', 'de.arthurpicht:ap-utils-io:0.0.23')
+            library('ap-utils-io', 'de.arthurpicht:ap-utils-io:0.0.24')
             library('ap-utils-logging', 'de.arthurpicht:ap-utils-logging:0.0.2')
             library('ap-utils-pdfbox', 'de.arthurpicht:ap-utils-pdfbox:0.0.5')
             library('ap-utils-struct', 'de.arthurpicht:ap-utils-struct:0.0.5')
@@ -23,7 +23,7 @@ dependencyResolutionManagement {
             library('ap-web-access-control', 'de.arthurpicht:ap-web-access-control:0.0.4')
             library('ap-barnacle', 'de.arthurpicht:barnacle:0.3.3')
             library('ap-fzf-java-wrapper', 'de.arthurpicht:ap-fzf-java-wrapper:0.0.4')
-            library('ap-console', 'de.arthurpicht:ap-console:0.3.2')
+            library('ap-console', 'de.arthurpicht:ap-console:0.4.0')
             library('ap-console-to-slf4j', 'de.arthurpicht:ap-console-to-slf4j:0.0.2')
             library('ap-virt-init-debian', 'de.arthurpicht:ap-virt-init-debian:0.0.2')
             library('ap-linux-wrapper', 'de.arthurpicht:ap-linux-wrapper:0.0.7')
