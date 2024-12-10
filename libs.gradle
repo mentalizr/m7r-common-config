@@ -14,7 +14,7 @@ dependencyResolutionManagement {
             library('ap-utils-core', 'de.arthurpicht:ap-utils-core:1.20.0')
             library('ap-utils-io', 'de.arthurpicht:ap-utils-io:0.0.24')
             library('ap-utils-logging', 'de.arthurpicht:ap-utils-logging:0.0.2')
-            library('ap-utils-pdfbox', 'de.arthurpicht:ap-utils-pdfbox:0.0.5')
+            library('ap-utils-pdfbox', 'de.arthurpicht:ap-utils-pdfbox:0.0.6')
             library('ap-utils-struct', 'de.arthurpicht:ap-utils-struct:0.0.5')
             library('ap-configuration', 'de.arthurpicht:ap-configuration:0.1.7')
             library('ap-cli', 'de.arthurpicht:ap-cli:0.1.4')
