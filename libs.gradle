@@ -9,6 +9,7 @@ dependencyResolutionManagement {
             library('m7r-serviceObjects', 'org.mentalizr:m7r-service-objects:0.0.1-SNAPSHOT')
             library('m7r-contentManager', 'org.mentalizr:m7r-content-manager:0.1-SNAPSHOT')
             library('m7r-cli', 'org.mentalizr:m7r-cli:0.0.1-SNAPSHOT')
+            library('m7r-daemon', 'org.mentalizr:m7r-daemon:0.0.1-SNAPSHOT')
             library('m7r-mdpCompiler', 'org.mentalizr:mdp-compiler:0.0.9-SNAPSHOT')
 
             library('ap-utils-core', 'de.arthurpicht:ap-utils-core:1.20.0')
