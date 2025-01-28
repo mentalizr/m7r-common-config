@@ -16,7 +16,7 @@ dependencyResolutionManagement {
             library('ap-utils-logging', 'de.arthurpicht:ap-utils-logging:0.0.2')
             library('ap-utils-pdfbox', 'de.arthurpicht:ap-utils-pdfbox:0.0.6')
             library('ap-utils-struct', 'de.arthurpicht:ap-utils-struct:0.0.5')
-            library('ap-configuration', 'de.arthurpicht:ap-configuration:0.1.7')
+            library('ap-configuration', 'de.arthurpicht:ap-configuration:0.1.8')
             library('ap-cli', 'de.arthurpicht:ap-cli:0.1.4')
             library('ap-process-executor', 'de.arthurpicht:ap-process-executor:0.0.7')
             library('ap-task-runner', 'de.arthurpicht:ap-task-runner:0.0.5')
