@@ -53,6 +53,7 @@ dependencyResolutionManagement {
 
             library('eclipse-angusMail', 'org.eclipse.angus:angus-mail:2.0.3')
             library('quartz', 'org.quartz-scheduler:quartz:2.5.0')
+            library('gson', 'com.google.code.gson:gson:2.12.1')
 
             library('qos-logback', 'ch.qos.logback:logback-classic:1.5.2')
             library('slf4j-julToSlf4j', 'org.slf4j:jul-to-slf4j:1.7.36')
