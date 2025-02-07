@@ -11,6 +11,7 @@ dependencyResolutionManagement {
             library('m7r-cli', 'org.mentalizr:m7r-cli:0.0.1-SNAPSHOT')
             library('m7r-scheduler', 'org.mentalizr:m7r-scheduler:0.0.1-SNAPSHOT')
             library('m7r-mdpCompiler', 'org.mentalizr:mdp-compiler:0.0.9-SNAPSHOT')
+            library('m7r-mailer', 'org.mentalizr:m7r-mailer:0.0.1-SNAPSHOT')
 
             library('ap-utils-core', 'de.arthurpicht:ap-utils-core:1.20.0')
             library('ap-utils-io', 'de.arthurpicht:ap-utils-io:0.0.24')
