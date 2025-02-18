@@ -20,7 +20,7 @@ dependencyResolutionManagement {
             library('ap-utils-struct', 'de.arthurpicht:ap-utils-struct:0.0.5')
             library('ap-configuration', 'de.arthurpicht:ap-configuration:0.1.8')
             library('ap-cli', 'de.arthurpicht:ap-cli:0.1.4')
-            library('ap-process-executor', 'de.arthurpicht:ap-process-executor:0.0.7')
+            library('ap-process-executor', 'de.arthurpicht:ap-process-executor:0.0.8')
             library('ap-task-runner', 'de.arthurpicht:ap-task-runner:0.0.5')
             library('ap-web-access-control', 'de.arthurpicht:ap-web-access-control:0.0.4')
             library('ap-barnacle', 'de.arthurpicht:barnacle:0.3.3')
