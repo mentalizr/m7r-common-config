@@ -18,7 +18,7 @@ dependencyResolutionManagement {
             library('ap-utils-logging', 'de.arthurpicht:ap-utils-logging:0.0.2')
             library('ap-utils-pdfbox', 'de.arthurpicht:ap-utils-pdfbox:0.0.6')
             library('ap-utils-struct', 'de.arthurpicht:ap-utils-struct:0.0.5')
-            library('ap-configuration', 'de.arthurpicht:ap-configuration:0.1.8')
+            library('ap-configuration', 'de.arthurpicht:ap-configuration:0.1.9')
             library('ap-cli', 'de.arthurpicht:ap-cli:0.1.4')
             library('ap-process-executor', 'de.arthurpicht:ap-process-executor:0.0.8')
             library('ap-task-runner', 'de.arthurpicht:ap-task-runner:0.0.5')
@@ -60,12 +60,12 @@ dependencyResolutionManagement {
             library('slf4j-julToSlf4j', 'org.slf4j:jul-to-slf4j:1.7.36')
             library('slf4j-nop', 'org.slf4j:slf4j-nop:2.0.16')
 
-            library('junit-jupiter', 'org.junit.jupiter:junit-jupiter:5.10.2')
+            library('junit-jupiter', 'org.junit.jupiter:junit-jupiter:5.11.4')
             // replace this with manual configuration of
             // testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
             // in each gradle.build in order to make it compatible with
             // gradle 9. See: https://docs.gradle.org/current/userguide/upgrading_version_8.html#test_framework_implementation_dependencies
-            library('junit-engine', 'org.junit.jupiter:junit-jupiter-engine:5.10.2')
+            library('junit-engine', 'org.junit.jupiter:junit-jupiter-engine:5.11.4')
 
             // to be replaced by ap-console:
             library('jcolor', 'com.diogonunes:JColor:5.5.1')
