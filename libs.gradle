@@ -14,7 +14,7 @@ dependencyResolutionManagement {
             library('m7r-mailer', 'org.mentalizr:m7r-mailer:0.0.1-SNAPSHOT')
 
             library('ap-utils-core', 'de.arthurpicht:ap-utils-core:1.23.0')
-            library('ap-utils-io', 'de.arthurpicht:ap-utils-io:0.0.24')
+            library('ap-utils-io', 'de.arthurpicht:ap-utils-io:0.0.25')
             library('ap-utils-logging', 'de.arthurpicht:ap-utils-logging:0.0.3')
             library('ap-utils-pdfbox', 'de.arthurpicht:ap-utils-pdfbox:0.0.6')
             library('ap-utils-struct', 'de.arthurpicht:ap-utils-struct:0.0.5')
